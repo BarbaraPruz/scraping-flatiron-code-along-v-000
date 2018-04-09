@@ -35,3 +35,6 @@ class Scraper
   end
 
 end
+
+# quick test
+Scraper.new.print_courses
