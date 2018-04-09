@@ -1,7 +1,7 @@
 class Course
   attr_accessor :title, :description, :schedule
 
-  @@ all
+  @@all
 
   def initialize
     @@all << self
